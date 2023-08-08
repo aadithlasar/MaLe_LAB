@@ -2,9 +2,9 @@
 This repository contains a collection of lab experiments for the Machine Learning course offered at MIT-ADT College. Each experiment is designed to provide hands-on experience with various machine learning concepts and techniques. The experiments are primarily conducted using Python and its popular libraries for machine learning and data analysis.
 
 # Experiment List
-## Installation and Configuration of Machine Learning Environment
 
-## Setup Anaconda environment on Windows or Ubuntu.
+## Installation and Configuration of Machine Learning Environment
+Setup Anaconda environment on Windows or Ubuntu.
 Utilize Jupyter Notebook for interactive coding.
 Data Pre-processing with Python/R
 
